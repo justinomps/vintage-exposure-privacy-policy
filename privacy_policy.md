@@ -1,6 +1,6 @@
 Privacy Policy for DECO-LUX
 
-Last Updated: [Insert Date, e.g., October 26, 2023]
+Last Updated: September 20, 2025
 
 This Privacy Policy describes how DECO-LUX (the "App") operates and outlines our policies on the collection, use, and disclosure of your information when you use the App.
 
@@ -55,4 +55,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, you can contact us:
 
-By email: [Your Support Email Address Here]
+By email: justin.omps@gmail.com
